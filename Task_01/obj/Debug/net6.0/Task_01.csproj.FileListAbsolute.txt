@@ -1,0 +1,15 @@
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Home_Works\Task_01\obj\Debug\net6.0\Task_01.csproj.AssemblyReference.cache
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Home_Works\Task_01\obj\Debug\net6.0\Task_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Home_Works\Task_01\obj\Debug\net6.0\Task_01.AssemblyInfoInputs.cache
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Home_Works\Task_01\obj\Debug\net6.0\Task_01.AssemblyInfo.cs
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Home_Works\Task_01\obj\Debug\net6.0\Task_01.csproj.CoreCompileInputs.cache
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Home_Works\Task_01\bin\Debug\net6.0\Task_01.exe
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Home_Works\Task_01\bin\Debug\net6.0\Task_01.deps.json
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Home_Works\Task_01\bin\Debug\net6.0\Task_01.runtimeconfig.json
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Home_Works\Task_01\bin\Debug\net6.0\Task_01.dll
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Home_Works\Task_01\bin\Debug\net6.0\Task_01.pdb
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Home_Works\Task_01\obj\Debug\net6.0\Task_01.dll
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Home_Works\Task_01\obj\Debug\net6.0\refint\Task_01.dll
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Home_Works\Task_01\obj\Debug\net6.0\Task_01.pdb
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Home_Works\Task_01\obj\Debug\net6.0\Task_01.genruntimeconfig.cache
+C:\Users\bezha\OneDrive\Рабочий стол\GB\Языки программирования\Home_Works\Task_01\obj\Debug\net6.0\ref\Task_01.dll
