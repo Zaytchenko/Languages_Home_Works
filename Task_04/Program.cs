@@ -7,7 +7,7 @@ Console.Write("Введите число N: ");
 
 int N = int.Parse(Console.ReadLine());
 
-int count = 0;
+int count = 2;
 
 while (count <= N)
 {
