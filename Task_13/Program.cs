@@ -10,7 +10,6 @@ if (N < 100)
     Console.WriteLine("Третьей цифры в этом числе нет");
 }
 else
-//if (N > 999)
 {
     while (N > 999)
     {
@@ -20,6 +19,3 @@ else
     
     Console.WriteLine(N);
 }
-//else
-    //N = N / 10;
-
