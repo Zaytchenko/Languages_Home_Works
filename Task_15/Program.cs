@@ -6,7 +6,7 @@ Console.Clear();
 Console.Write("Введите день недели: ");
 
 int day = int.Parse(Console.ReadLine());
-if (day < 1  || day > 7)
+if (day < 1 || day > 7)
 {
     Console.WriteLine($"{day} -> ошибка");
 }
@@ -17,11 +17,11 @@ if (day == 6 || day == 7)
     Console.WriteLine($"{day} -> выходной");
 }
 else
-Console.WriteLine($"{day} -> рабочий день");
+    Console.WriteLine($"{day} -> рабочий день");
 
-    // If (day == 1 || day == 7)
-    // {
-    //     Console.WriteLine($"{day} -> такого дня недели не существует");
-    // } 
-    // else
-    // Console.WriteLine($"{day} -> ok");
+// If (day == 1 || day == 7)
+// {
+//     Console.WriteLine($"{day} -> такого дня недели не существует");
+// } 
+// else
+// Console.WriteLine($"{day} -> ok");

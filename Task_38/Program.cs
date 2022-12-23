@@ -14,7 +14,8 @@ double[] FillArrayWithRandomNumbers(int size, int leftRange, int rightRange)
     double[] arr = new double[size];
     for (int i = 0; i < arr.Length; i++)
     {
-        arr[i] = rand.Next(leftRange, rightRange + 1) + rand.NextDouble(); //[-100;100]
+        arr[i] = rand.Next(leftRange, rightRange + 1) + rand.NextDouble(); //[-100;100
+        //double к = Math.Round(rand.NextDouble()*20 - 10, 3); //0 1 // 0.2346253 -> 2.34 [-10; 10]
     }
     return arr;
 }
